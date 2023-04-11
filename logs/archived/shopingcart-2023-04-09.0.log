@@ -1,0 +1,91 @@
+2023-04-09 14:35:15,113 INFO com.vprokopchuk.players.model.Player [main] Thread main Player com.vprokopchuk.players.model.Player@37374a5e sent message first message.0
+2023-04-09 14:35:15,113 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0
+2023-04-09 14:35:15,113 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@624b9036 sent message first message 0 0
+2023-04-09 14:35:16,122 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@624b9036 sent message first message 0 0 1
+2023-04-09 14:35:16,122 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0 0 1 1
+2023-04-09 14:35:17,123 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@624b9036 sent message first message 0 0 1 1 2 2
+2023-04-09 14:35:17,123 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0 0 1 1 2
+2023-04-09 14:35:18,124 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@624b9036 sent message first message 0 0 1 1 2 2 3
+2023-04-09 14:35:18,124 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0 0 1 1 2 2 3 3
+2023-04-09 14:35:19,125 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0 0 1 1 2 2 3 3 4
+2023-04-09 14:35:19,125 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@624b9036 sent message first message 0 0 1 1 2 2 3 3 4 4
+2023-04-09 14:35:20,126 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@624b9036 sent message first message 0 0 1 1 2 2 3 3 4 4 5 5
+2023-04-09 14:35:20,126 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0 0 1 1 2 2 3 3 4 4 5
+2023-04-09 14:35:21,127 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@624b9036 sent message first message 0 0 1 1 2 2 3 3 4 4 5 5 6
+2023-04-09 14:35:21,127 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6
+2023-04-09 14:35:22,128 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@624b9036 sent message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7
+2023-04-09 14:35:22,128 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7
+2023-04-09 14:35:23,128 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@624b9036 sent message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8
+2023-04-09 14:35:23,128 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8
+2023-04-09 14:36:02,536 INFO com.vprokopchuk.players.model.Player [main] Thread main Player com.vprokopchuk.players.model.Player@37374a5e sent message first message
+2023-04-09 14:36:02,537 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0
+2023-04-09 14:36:02,549 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@64fdb050 sent message first message 0 0
+2023-04-09 14:36:03,555 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@64fdb050 sent message first message 0 0 1 1
+2023-04-09 14:36:03,555 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0 0 1
+2023-04-09 14:36:04,555 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@64fdb050 sent message first message 0 0 1 1 2
+2023-04-09 14:36:04,556 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0 0 1 1 2 2
+2023-04-09 14:36:05,556 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@64fdb050 sent message first message 0 0 1 1 2 2 3
+2023-04-09 14:36:05,556 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0 0 1 1 2 2 3 3
+2023-04-09 14:36:06,557 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0 0 1 1 2 2 3 3 4 4
+2023-04-09 14:36:06,557 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@64fdb050 sent message first message 0 0 1 1 2 2 3 3 4
+2023-04-09 14:36:07,557 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@64fdb050 sent message first message 0 0 1 1 2 2 3 3 4 4 5 5
+2023-04-09 14:36:07,557 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0 0 1 1 2 2 3 3 4 4 5
+2023-04-09 14:36:08,558 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@64fdb050 sent message first message 0 0 1 1 2 2 3 3 4 4 5 5 6
+2023-04-09 14:36:08,558 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6
+2023-04-09 14:36:09,560 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@37374a5e sent message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7
+2023-04-09 14:36:09,560 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@64fdb050 sent message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7
+2023-04-09 14:39:15,253 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@495b0f23 reply message first message 0 0
+2023-04-09 14:39:15,253 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@6c526acc reply message first message 0
+2023-04-09 14:39:15,253 INFO com.vprokopchuk.players.model.Player [main] Thread main Player com.vprokopchuk.players.model.Player@6c526acc sent message first message
+2023-04-09 14:39:16,267 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@495b0f23 reply message first message 0 0 1
+2023-04-09 14:39:16,267 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@6c526acc reply message first message 0 0 1 1
+2023-04-09 14:39:17,269 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@495b0f23 reply message first message 0 0 1 1 2
+2023-04-09 14:39:17,269 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@6c526acc reply message first message 0 0 1 1 2 2
+2023-04-09 14:39:18,270 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@495b0f23 reply message first message 0 0 1 1 2 2 3
+2023-04-09 14:39:18,270 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@6c526acc reply message first message 0 0 1 1 2 2 3 3
+2023-04-09 14:39:19,272 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@495b0f23 reply message first message 0 0 1 1 2 2 3 3 4
+2023-04-09 14:39:19,272 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@6c526acc reply message first message 0 0 1 1 2 2 3 3 4 4
+2023-04-09 14:39:20,273 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@495b0f23 reply message first message 0 0 1 1 2 2 3 3 4 4 5
+2023-04-09 14:39:20,273 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@6c526acc reply message first message 0 0 1 1 2 2 3 3 4 4 5 5
+2023-04-09 14:39:21,275 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@6c526acc reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6
+2023-04-09 14:39:21,275 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@495b0f23 reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6
+2023-04-09 14:39:22,277 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@495b0f23 reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7
+2023-04-09 14:39:22,277 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@6c526acc reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7
+2023-04-09 14:39:23,279 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Thread pool-1-thread-2 Player com.vprokopchuk.players.model.Player@495b0f23 reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8
+2023-04-09 14:39:23,279 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Thread pool-1-thread-1 Player com.vprokopchuk.players.model.Player@6c526acc reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8
+2023-04-09 14:55:02,573 INFO com.vprokopchuk.players.model.Player [main] Player com.vprokopchuk.players.model.Player@37374a5e sent message first message
+2023-04-09 14:55:02,575 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@37374a5e reply message first message 0 0
+2023-04-09 14:55:02,574 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@6a1ebbc reply message first message 0
+2023-04-09 14:55:03,579 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@37374a5e reply message first message 0 0 1
+2023-04-09 14:55:03,580 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@6a1ebbc reply message first message 0 0 1 1
+2023-04-09 14:55:04,581 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@6a1ebbc reply message first message 0 0 1 1 2 2
+2023-04-09 14:55:04,581 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@37374a5e reply message first message 0 0 1 1 2
+2023-04-09 14:55:05,583 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@6a1ebbc reply message first message 0 0 1 1 2 2 3
+2023-04-09 14:55:05,583 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@37374a5e reply message first message 0 0 1 1 2 2 3 3
+2023-04-09 14:55:06,584 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@37374a5e reply message first message 0 0 1 1 2 2 3 3 4
+2023-04-09 14:55:06,585 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@6a1ebbc reply message first message 0 0 1 1 2 2 3 3 4 4
+2023-04-09 14:55:07,586 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@6a1ebbc reply message first message 0 0 1 1 2 2 3 3 4 4 5 5
+2023-04-09 14:55:07,586 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@37374a5e reply message first message 0 0 1 1 2 2 3 3 4 4 5
+2023-04-09 14:55:08,588 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@37374a5e reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6
+2023-04-09 14:55:08,588 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@6a1ebbc reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6
+2023-04-09 14:55:09,588 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@6a1ebbc reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7
+2023-04-09 14:55:09,588 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@37374a5e reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7
+2023-04-09 14:55:10,589 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@37374a5e reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8
+2023-04-09 14:55:10,589 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@6a1ebbc reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8
+2023-04-09 14:55:11,591 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@37374a5e reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9
+2023-04-09 14:55:11,591 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@6a1ebbc reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9
+2023-04-09 15:35:49,916 INFO com.vprokopchuk.players.model.Player [main] Player com.vprokopchuk.players.model.Player@7a3d45bd sent message first message
+2023-04-09 15:35:49,926 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@17adc55a reply message first message 0
+2023-04-09 15:35:49,926 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@7a3d45bd reply message first message 0 0
+2023-04-09 15:35:50,927 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@7a3d45bd reply message first message 0 0 1
+2023-04-09 15:35:50,928 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@17adc55a reply message first message 0 0 1 1
+2023-04-09 15:35:51,929 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@17adc55a reply message first message 0 0 1 1 2 2
+2023-04-09 15:35:51,929 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@7a3d45bd reply message first message 0 0 1 1 2
+2023-04-09 15:35:52,931 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@7a3d45bd reply message first message 0 0 1 1 2 2 3 3
+2023-04-09 15:35:52,931 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@17adc55a reply message first message 0 0 1 1 2 2 3
+2023-04-09 15:35:53,933 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@17adc55a reply message first message 0 0 1 1 2 2 3 3 4
+2023-04-09 15:35:53,933 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@7a3d45bd reply message first message 0 0 1 1 2 2 3 3 4 4
+2023-04-09 15:35:54,935 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@17adc55a reply message first message 0 0 1 1 2 2 3 3 4 4 5
+2023-04-09 15:35:54,935 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@7a3d45bd reply message first message 0 0 1 1 2 2 3 3 4 4 5 5
+2023-04-09 15:35:55,936 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@17adc55a reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6
+2023-04-09 15:35:55,936 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@7a3d45bd reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6

@@ -1,0 +1,23 @@
+2023-04-10 10:38:57,434 INFO com.vprokopchuk.players.model.Player [pool-1-thread-1] Player com.vprokopchuk.players.model.Player@7a3d45bd reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7
+2023-04-10 10:38:57,434 INFO com.vprokopchuk.players.model.Player [pool-1-thread-2] Player com.vprokopchuk.players.model.Player@17adc55a reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7
+2023-04-10 19:22:46,396 INFO com.vprokopchuk.players.task.Player [main] Player com.vprokopchuk.players.task.Player@a38d7a3 sent message first message
+2023-04-10 19:22:46,407 INFO com.vprokopchuk.players.task.Player [pool-1-thread-1] Player com.vprokopchuk.players.task.Player@a38d7a3 reply message first message 0 0
+2023-04-10 19:22:46,407 INFO com.vprokopchuk.players.task.Player [pool-1-thread-2] Player com.vprokopchuk.players.task.Player@2af2454e reply message first message 0
+2023-04-10 19:22:47,408 INFO com.vprokopchuk.players.task.Player [pool-1-thread-2] Player com.vprokopchuk.players.task.Player@2af2454e reply message first message 0 0 1
+2023-04-10 19:22:47,408 INFO com.vprokopchuk.players.task.Player [pool-1-thread-1] Player com.vprokopchuk.players.task.Player@a38d7a3 reply message first message 0 0 1 1
+2023-04-10 19:22:48,410 INFO com.vprokopchuk.players.task.Player [pool-1-thread-2] Player com.vprokopchuk.players.task.Player@2af2454e reply message first message 0 0 1 1 2
+2023-04-10 19:22:48,410 INFO com.vprokopchuk.players.task.Player [pool-1-thread-1] Player com.vprokopchuk.players.task.Player@a38d7a3 reply message first message 0 0 1 1 2 2
+2023-04-10 19:22:49,411 INFO com.vprokopchuk.players.task.Player [pool-1-thread-2] Player com.vprokopchuk.players.task.Player@2af2454e reply message first message 0 0 1 1 2 2 3
+2023-04-10 19:22:49,412 INFO com.vprokopchuk.players.task.Player [pool-1-thread-1] Player com.vprokopchuk.players.task.Player@a38d7a3 reply message first message 0 0 1 1 2 2 3 3
+2023-04-10 19:22:50,414 INFO com.vprokopchuk.players.task.Player [pool-1-thread-2] Player com.vprokopchuk.players.task.Player@2af2454e reply message first message 0 0 1 1 2 2 3 3 4
+2023-04-10 19:22:50,414 INFO com.vprokopchuk.players.task.Player [pool-1-thread-1] Player com.vprokopchuk.players.task.Player@a38d7a3 reply message first message 0 0 1 1 2 2 3 3 4 4
+2023-04-10 19:22:51,416 INFO com.vprokopchuk.players.task.Player [pool-1-thread-2] Player com.vprokopchuk.players.task.Player@2af2454e reply message first message 0 0 1 1 2 2 3 3 4 4 5
+2023-04-10 19:22:51,416 INFO com.vprokopchuk.players.task.Player [pool-1-thread-1] Player com.vprokopchuk.players.task.Player@a38d7a3 reply message first message 0 0 1 1 2 2 3 3 4 4 5 5
+2023-04-10 19:22:52,418 INFO com.vprokopchuk.players.task.Player [pool-1-thread-1] Player com.vprokopchuk.players.task.Player@a38d7a3 reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6
+2023-04-10 19:22:52,418 INFO com.vprokopchuk.players.task.Player [pool-1-thread-2] Player com.vprokopchuk.players.task.Player@2af2454e reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6
+2023-04-10 19:22:53,420 INFO com.vprokopchuk.players.task.Player [pool-1-thread-2] Player com.vprokopchuk.players.task.Player@2af2454e reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7
+2023-04-10 19:22:53,420 INFO com.vprokopchuk.players.task.Player [pool-1-thread-1] Player com.vprokopchuk.players.task.Player@a38d7a3 reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7
+2023-04-10 19:22:54,422 INFO com.vprokopchuk.players.task.Player [pool-1-thread-2] Player com.vprokopchuk.players.task.Player@2af2454e reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8
+2023-04-10 19:22:54,422 INFO com.vprokopchuk.players.task.Player [pool-1-thread-1] Player com.vprokopchuk.players.task.Player@a38d7a3 reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8
+2023-04-10 19:22:55,424 INFO com.vprokopchuk.players.task.Player [pool-1-thread-1] Player com.vprokopchuk.players.task.Player@a38d7a3 reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9
+2023-04-10 19:22:55,424 INFO com.vprokopchuk.players.task.Player [pool-1-thread-2] Player com.vprokopchuk.players.task.Player@2af2454e reply message first message 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9
